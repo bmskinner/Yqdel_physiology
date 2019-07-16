@@ -1,0 +1,1 @@
+Datasets and scripts for Rathje et al - Differential sperm motility mediates the sex ratio drive shaping mouse sex chromosome evolution
