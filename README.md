@@ -7,4 +7,4 @@ The R script ```createCharts.R``` performs the analyses and generates charts. Th
 
 Supplementary tables containing the breeding data are also in the Raw_data folder.
 
-```Two_cell_recovery.csv``` contains the results of the 2-cell recovery experiment, and ```Embryo_data.csv``` contains the details on recovered embryos with different maternal and paternal genotype combinations.
+```Two_cell_recovery.csv``` contains the results of the 2-cell recovery experiment, and ```Embryo_data.csv``` contains the details on recovered embryos with different maternal and paternal genotype combinations. The results of IVF experiments are in ```XgYqdel_IVF.csv```.
