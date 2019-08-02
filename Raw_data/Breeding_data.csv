@@ -1,0 +1,22 @@
+Paternal_genotype,Protocol,Num_males,Sperm_status,Maternal_details,Num_offspring,Pct_female,Standard_error_proportion,Simple_protocol, Level_1, Level_2, Level_3
+XGFPYRIIIqdel,"IVF, GFP scoring of blastocysts",6,cauda epididymal sperm retrieved for IVF,CBAB6 F1 oocytes (cumulus retained),243,0.44,0.03,IVF,IVF,XGFPYRIIIqdel,Cumulus on
+XGFPYRIIIqdel,"IVF, GFP scoring of blastocysts",6,cauda epididymal sperm retrieved for IVF,CBAB6 F1 oocytes (cumulus removed),203,0.45,0.03,IVF,IVF,XGFPYRIIIqdel,Cumulus off
+XGFPYRIIIqdel,"Superovulation, natural mating, 2-cell embryo recovery, GFP scoring of blastocysts",9,fresh (3 day mating interval),CBAB6 F1,173,0.56,0.04,Embryo recovery,Embryo recovery,XGFPYRIIIqdel,Fresh 
+XGFPYRIIIqdel,"Superovulation, natural mating, 2-cell embryo recovery, GFP scoring of blastocysts",9,aged (14+ day mating interval),CBAB6 F1,251,0.54,0.03,Embryo recovery,Embryo recovery,XGFPYRIIIqdel,Aged
+XGFPYRIIIqdel,"Superovulation, natural mating, 2-cell embryo recovery, GFP scoring of blastocysts",4,aged (14+ day mating interval),MF1,87,0.61,0.05,Embryo recovery,Embryo recovery,XGFPYRIIIqdel,Aged
+XGFPYRIII,"Superovulation, natural mating, 2-cell embryo recovery, GFP scoring of blastocysts",9,fresh (3 day mating interval),CBAB6 F1,150,0.5,0.04,Embryo recovery,Embryo recovery,XGFPYRIII,Fresh 
+XGFPYRIII,"Superovulation, natural mating, 2-cell embryo recovery, GFP scoring of blastocysts",9,aged (14+ day mating interval),CBAB6 F1,104,0.47,0.05,Embryo recovery,Embryo recovery,XGFPYRIII,Aged
+XGFPYRIII,"Superovulation, natural mating, 2-cell embryo recovery, GFP scoring of blastocysts",4,aged (14+ day mating interval),MF1,73,0.38,0.06,Embryo recovery,Embryo recovery,XGFPYRIII,Aged
+XGFPYRIIIqdel,"Natural mating (timed oestrus), GFP scoring of mid-gestation embryos",7,~7 day mating interval,XYRIII,143,0.58,0.04,Timed mating,Timed mating,XGFPYRIIIqdel,XYRIII mothers
+XGFPYRIIIqdel,"Natural mating (timed oestrus), GFP scoring of mid-gestation embryos",7,~7 day mating interval,XYRIIIqdel,159,0.55,0.04,Timed mating,Timed mating,XGFPYRIIIqdel,XYRIIIqdel mothers
+XGFPYRIII,"Natural mating (timed oestrus), GFP scoring of mid-gestation embryos",7,~7 day mating interval,XYRIII,111,0.43,0.05,Timed mating,Timed mating,XGFPYRIII,XYRIII mothers
+XGFPYRIII,"Natural mating (timed oestrus), GFP scoring of mid-gestation embryos",7,~7 day mating interval,XYRIIIqdel,143,0.48,0.04,Timed mating,Timed mating,XGFPYRIII,XYRIIIqdel mothers
+XYRIIIqdel,Colony data (Cambs),NA,Pair or trio mating cages,Predominantly MF1,723,0.55,0.02,Colony data (Cambs),Colony data,Cambs,XYRIIIqdel
+XYRIII,Colony data (Cambs),NA,Pair or trio mating cages,Predominantly MF1,922,0.47,0.02,Colony data (Cambs),Colony data,Cambs,XYRIII
+XYRIIIqdel,Colony data (Kent),NA,Pair or trio mating cages,MF1,526,0.59,0.02,Colony data (Kent),Colony data,Kent,XYRIIIqdel
+XYRIII,Colony data (Kent),NA,Pair or trio mating cages,MF1,534,0.46,0.02,Colony data (Kent),Colony data,Kent,XYRIII
+XYRIIIqdel,Colony data (France),NA,Pair or trio mating cages,>80% C57Bl6/N,132,0.61,0.04,Colony data (France),Colony data,France,XYRIIIqdel
+XYRIII,Colony data (France),NA,Pair or trio mating cages,>80% C57Bl6/N,151,0.52,0.04,Colony data (France),Colony data,France,XYRIII
+shSLY,Colony data (France),NA,Pair or trio mating cages,>80% C57Bl6/N,16,0.88,0.08,Colony data (France),Colony data,France,shSLY
+XYRIIIqdel,Colony data (Kent+Cambs),NA,Pair or trio mating cages,MF1,1249,0.57,0.01,Colony data (Kent+Cambs),Colony data,Kent+Cambs,XYRIIIqdel
+XYRIII,Colony data (Kent+Cambs),NA,Pair or trio mating cages,MF1,1456,0.47,0.01,Colony data (Kent+Cambs),Colony data,Kent+Cambs,XYRIII

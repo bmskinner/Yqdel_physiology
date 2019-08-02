@@ -7,6 +7,15 @@ The R script ```createCharts.R``` performs the analyses and generates charts. Th
 
 Supplementary tables containing the embryo experiments and breeding data are also in the Raw_data folder:
 
+```Breeding_data.csv```
+
+(1) Animals from the Cambridge colony (MF1 background) were used for IVF, embryo recovery, timed mating and sperm morphology experiments
+(2) Animals from the Kent colony (MF1 background) were used for sperm morphology and sperm motility experiments
+(3) Animals from the France colony (C57Bl6/N background) were used for sperm morphology experiments
+(4) IVF experiments tested whether the presence of cumulus cells affected the sex ratio from IVF using XYRIIIqdel fathers
+(5) Embryo recovery experiments tested whether sperm aging affected the sex ratio from natural mating in XYRIII and/or XYRIIIqdel fathers
+(6) Timed mating experiments tested whether maternal genotype affected the sex ratio from natural mating in XYRIII and/or XYRIIIqdel fathers
+
 ```XgYqdel_IVF.csv```  
 XgfpYqdel fathers only. IVF with/without cumulus removal using hyaluronidase, counted at blastocyst stage. IVF performed with/without hyaluronidase, embryos counted at blastocyst stage. Females were CBAB6/F1 hybrids, 8 per IVF batch.
 
